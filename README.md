@@ -23,3 +23,13 @@ December 8, 2018
 December 8, 2018
 - [Michie Ang](https://twitter.com/michieriffic)
 
+---
+## Instructions
+
+To add your name or your community to the pledge, update this README directly if you are part of this organization in Github. If not, fork the README, then add your name or your community name as a url link and create a pull request (Url markdown looks like this `[name](url)`). Please add your name under the date that you have pledge the Oath. Create another date as needed.
+
+It would be better if you would be using your own Github Account when adding your name in the pledge. This acts like a signature because most likely only you have the access to your account.
+
+If you want to add or request any changes in our Oath, please create an issue and tell us why you want to add or change the certain section and we'll vote for the changes. 
+
+Thank you for being part of our movement. :)
